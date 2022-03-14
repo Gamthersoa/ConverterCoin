@@ -1,0 +1,36 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 10px;
+  background-image: url('https://static.significados.com.br/foto/teoria-das-cores-32-fb.jpg');
+  background-color: #000000;
+  background-size: 300vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 2px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 5px;
+}
+
+.alura-logo {
+  width: 5px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
